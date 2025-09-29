@@ -1,0 +1,13 @@
+# Raiku Project Documentation
+
+This repository provides a structured overview of **Raiku**, a coordination layer built on Solana.  
+It contains all essential information divided into five sections:
+
+1. [Overview](1_Overview.md)  
+2. [Technology](2_Technology.md)  
+3. [Testnet](3_Testnet.md)  
+4. [Community](4_Community.md)  
+5. [FAQ](5_FAQ.md)  
+
+> ⚠️ Note: This repo is for **educational and informational purposes only**.  
+> It will be updated regularly as new official updates about Raiku are released.
