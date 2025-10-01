@@ -15,3 +15,9 @@ Raiku is open to everyone — not just developers. You can get involved in many 
 
 **Remember:**  
 There is **no Raiku token yet** — any live tokens claiming to be Raiku are scams. Stay safe!
+## 🐉 Raiku Update (Sept 30, 2025)
+
+Time to make the **Inevitable Culture**.  
+Raiku Bandana has arrived — wear it in your PFP and show the world you are Raiku People.  
+
+This is more than culture, it’s an **inevitable movement**.
