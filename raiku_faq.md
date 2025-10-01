@@ -20,5 +20,6 @@ It is a **core coordination layer** on Solana that enhances reliability, scalabi
 
 ## ❓ How can I get involved?
 - Join the community (Discord, X)  
+- Discord:https://discord.gg/raikucom 
 - Participate in events  
 - Validators can join the testnet
