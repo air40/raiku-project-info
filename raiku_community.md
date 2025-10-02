@@ -4,7 +4,7 @@ Raiku is open to everyone — not just developers. You can get involved in many 
 
 - 🌍 **Website** → [raiku.com](https://www.raiku.com/)  
 - 🐦 **X (Twitter)** → [@raikucom](https://x.com/raikucom)  
-- 💬 **Discord** → Join via official website  
+- 💬 **Discord** → https://discord.gg/raikucom  
 - 📄 **Docs** → Available through official channels  
 
 ## How to Contribute
