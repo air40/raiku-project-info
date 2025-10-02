@@ -14,7 +14,7 @@ Raiku extends **Solana’s capabilities** by enabling block builders to offer di
 - Protection from transaction value extraction (MEV / sandwiching)  
 - Pre-confirmations for faster execution  
 
-
+With execution and consensus placed on distinct layers, Raiku’s decoupled block building system creates additional revenue channels for builders and validators, while enhancing the incentive design across the Solana ecosystem.
 
 **Put simply:**  
 Applications can secure priority, reduce latency, and achieve institutional-grade performance. Developers can build high-speed, specialized apps that integrate seamlessly with Solana.
