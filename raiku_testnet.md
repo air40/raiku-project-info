@@ -12,4 +12,4 @@
 
 ## Notes
 - Testnet participation is **validator-only** for now  
-- General community members can stay engaged via Discord, X, and events
+- General community members can stay engaged via Discord, X, and events😍
