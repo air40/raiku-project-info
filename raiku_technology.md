@@ -16,3 +16,11 @@
 - Manages bandwidth  
 - Schedules transactions  
 - Ensures smooth communication between validators and execution extensions
+## Enterprise-Grade Reliability on Solana 🐉
+
+Raiku brings **institutional-grade certainty** to the Solana network, enabling developers and users to:  
+- Build and trade with confidence  
+- Enjoy predictable execution and guaranteed blockspace  
+- Leverage a premium reliability layer that turns Solana into true institutional infrastructure  
+
+Read more in Hazeflow's article: [Link](https://x.com/hazeflow_xyz/status/1975911209862885696)
