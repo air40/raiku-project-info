@@ -24,3 +24,16 @@ Raiku brings **institutional-grade certainty** to the Solana network, enabling d
 - Leverage a premium reliability layer that turns Solana into true institutional infrastructure  
 
 Read more in Hazeflow's article: [Link](https://x.com/hazeflow_xyz/status/1975911209862885696)
+
+## Deterministic Execution Layer for Perp DEXs 🐉
+
+Raiku introduces a **deterministic execution layer** for Perpetual DEXs on Solana, addressing execution uncertainty in on-chain trading.  
+
+Key features include:  
+- **AOT (Ahead-of-Time):** Schedule precise slot-level operations like funding, oracle updates, and margin adjustments  
+- **JIT (Just-in-Time):** Execute urgent actions instantly in the next slot  
+- **Extensions:** Enable microsecond off-chain matching with cryptographic settlement  
+
+This brings **CEX-grade reliability and timing precision** to Solana perps.  
+
+Read the full article: [Link](https://x.com/raikucom/status/1978916763396907442)
